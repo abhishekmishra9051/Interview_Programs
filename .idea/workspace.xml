@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="85a81dbd-f77c-497e-99b3-4f052306ce44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/org/pattern/Pattern3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,14 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.String_Palindrome">
-    <configuration name="Fibonacci_Series" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Fibonacci_Series" />
-      <module name="Interview_Programs" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Pattern3">
     <configuration name="IsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IsPrime" />
       <module name="Interview_Programs" />
@@ -53,9 +43,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="Pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.pattern.Pattern1" />
       <module name="Interview_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.pattern.Pattern2" />
+      <module name="Interview_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pattern3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.org.pattern.Pattern3" />
+      <module name="Interview_Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.org.pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -69,10 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String_Palindrome" />
+        <item itemvalue="Application.Pattern3" />
+        <item itemvalue="Application.Pattern2" />
+        <item itemvalue="Application.Pattern1" />
         <item itemvalue="Application.IsPrime" />
-        <item itemvalue="Application.Fibonacci_Series" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.String_Palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -106,13 +129,62 @@
       <option name="project" value="LOCAL" />
       <updated>1663876176348</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="It is the program of String_Palindrome.">
+      <created>1663878392205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663878392205</updated>
+    </task>
+    <task id="LOCAL-00005" summary="It is the program of String_Palindrome.">
+      <created>1663878462351</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663878462351</updated>
+    </task>
+    <task id="LOCAL-00006" summary="It is the program of Checking number is prime or not.">
+      <created>1663913292056</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1663913292056</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Pattern 1">
+      <created>1665464030761</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665464030761</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pattern 2&#10;*0000*0000*&#10;0*000*000*0&#10;00*00*00*00&#10;000*0*0*000&#10;0000***0000">
+      <created>1665465025901</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665465025901</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="It's my first Commit." />
     <MESSAGE value="It is the program to checking for prime number." />
     <MESSAGE value="It is the program of String_Palindrome." />
-    <option name="LAST_COMMIT_MESSAGE" value="It is the program of String_Palindrome." />
+    <MESSAGE value="It is the program of Checking number is prime or not." />
+    <MESSAGE value="Pattern 1" />
+    <MESSAGE value="Pattern 2&#10;*0000*0000*&#10;0*000*000*0&#10;00*00*00*00&#10;000*0*0*000&#10;0000***0000" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pattern 2&#10;*0000*0000*&#10;0*000*000*0&#10;00*00*00*00&#10;000*0*0*000&#10;0000***0000" />
   </component>
 </project>
